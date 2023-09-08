@@ -10,7 +10,7 @@ Unlock the potential to customize images within your Flutter app, adding a uniqu
 
 Stay up-to-date with the latest in Flutter development by subscribing to my channel. If you found this tutorial helpful, please give it a thumbs up and share it with your fellow Flutter enthusiasts.
 
-youtube: https://youtu.be/5OTaaa6IRgU
+youtube: https://youtu.be/GIV0m2d_low
 
 buy me a coffee: https://www.buymeacoffee.com/hmmzatariq
 
